@@ -15,3 +15,4 @@ exports.sumOfAMultiple = function( n ) {
   // do your work here
    return sum;
 };
+
